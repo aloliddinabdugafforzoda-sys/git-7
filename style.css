@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #555C68;
+}
+button{
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+h1{
+    font-size: 44px;
+    font-weight: 600;
+    color: #24272E;
+}
+.header{
+    width: 100%;
+    background-color: #101C26;
+}
+.h-part1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    padding-top: 30px;
+}
+.divhome{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    
+}
+.phome{
+    font-size: 16px;
+    font-weight: 500;
+    color: #BAB9B9;
+}
+.lol{
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.btnsign{
+    width: 117px;
+    height: 50px;
+    border: 1px solid grey;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #ffffff00;
+    color: #CECECE;
+}
+.btnsign1{
+    width: 117px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #F0E714;
+    color: #101C26;
+}
+.btn2x{
+    display: flex;
+    gap: 20px;
+}
+.h1we{
+    color: #F3F4F6;
+    width: 400px;  
+}
+.pwe{
+     color: #f3f4f6b7;
+     width: 400px;
+     margin-top: 20px;
+}
+.h-part2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    margin-top: 50px;
+}
+.btnget{
+    width: 197px;
+    height: 60px;
+    background-color: #F0E714;
+    color: #000;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.divhow{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.p20{
+    color: #F0E714;
+    text-align: center;
+}
+.pyear{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+}
+.div20{
+    width: 143px;
+}
+.h-part3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    margin-top: 50px;
+}
