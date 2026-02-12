@@ -13,8 +13,13 @@ button{
     font-size: 16px;
     font-weight: 500;
 }
+h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #24272E;
+}
 h1{
-    font-size: 44px;
+    font-size: 54px;
     font-weight: 600;
     color: #24272E;
 }
@@ -67,7 +72,7 @@ h1{
 }
 .h1we{
     color: #F3F4F6;
-    width: 400px;  
+    width: 450px;  
 }
 .pwe{
      color: #f3f4f6b7;
@@ -116,3 +121,36 @@ h1{
     padding: 0px 100px;
     margin-top: 50px;
 }
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px;
+    padding-top: 150px;
+}
+.btnabou{
+    background-color: rgba(240, 231, 20, 0.2);
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 8px;
+}
+.pwa{
+    width: 600px;
+    margin-top: 30px;
+}
+.pcs{
+    width: 450px;
+    margin-top: 20px;
+}
+.btnread{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #24272E;
+    color: #F0E714;
+    width: 160px;
+    height: 46px;
+    margin-top: 30px;
+}    
