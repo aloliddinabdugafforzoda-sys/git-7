@@ -26,6 +26,7 @@ h1{
 .header{
     width: 100%;
     background-color: #101C26;
+    padding-bottom: 40px;
 }
 .h-part1{
     display: flex;
@@ -153,4 +154,42 @@ h1{
     width: 160px;
     height: 46px;
     margin-top: 30px;
-}    
+}   
+.sec2{
+    display: flex;
+    justify-content: space-between;
+  
+    padding: 0px 100px;
+    padding-top: 150px;
+} 
+.pex{
+    width: 500px;
+    margin-top: 40px;
+}
+.psat{
+    width: 350px;
+    margin-top: 10px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.divour{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.pwh{
+    width: 450px;
+    text-align: center;
+    margin-top: 30px;
+}
+.pbus{
+    width: 650px;
+    text-align: center;
+    margin-top: 30px;
+}
